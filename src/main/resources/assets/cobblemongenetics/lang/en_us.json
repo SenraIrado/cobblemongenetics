@@ -1,0 +1,13 @@
+{
+  "itemGroup.cobblemongenetics": "Example Mod Tab",
+  "block.cobblemongenetics.example_block": "Example Block",
+  "item.cobblemongenetics.example_item": "Example Item",
+
+  "cobblemongenetics.configuration.title": "Cobblemon Genetics Configs",
+  "cobblemongenetics.configuration.section.cobblemongenetics.common.toml": "Cobblemon Genetics Configs",
+  "cobblemongenetics.configuration.section.cobblemongenetics.common.toml.title": "Cobblemon Genetics Configs",
+  "cobblemongenetics.configuration.items": "Item List",
+  "cobblemongenetics.configuration.logDirtBlock": "Log Dirt Block",
+  "cobblemongenetics.configuration.magicNumberIntroduction": "Magic Number Text",
+  "cobblemongenetics.configuration.magicNumber": "Magic Number"
+}
